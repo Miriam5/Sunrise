@@ -1,0 +1,41 @@
+body {
+	background-color: pink;
+	color: darkSlateGray;
+	display:flex;
+	flex-direction:  ;
+	flex-wrap:  nowrap;
+	justify-content:  center;
+	align-items:  center;
+	align-self:     ;
+	align-content; ; 
+	border 4px solid gray;
+	font-size: 24px;
+	
+	}
+
+h1 {
+
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	width: 50%;
+
+}
+
+/*.containing {
+	{
+		display:flex;
+		flex-direction:  ;
+		flex-wrap:  nowrap;
+		justify-content:  center;
+		align-items:  center;
+		align-self:     ;
+		align-content; ; 
+		border 4px solid gray;
+		font-size: 24px;
+		color: lightblue;
+	}*/
+	
