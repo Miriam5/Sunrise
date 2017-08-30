@@ -37,7 +37,8 @@ $(document).ready(function() {
 					$("#sunrise-time").html("Sunrise: " + rise);
 					$("#sunset-time").html("Sunset: " + set);
 					$("#day-length").html("The day is " + length + " hours long.");
-					$("#date").html("Enjoy every minute.");
+					//$(".time").html("Time: " + new Date().getHours() + ":" + new Date().getMinutes());
+					$("#date").html("Today is " + "" + "Be present and enjoy every moment.");
 		 
 					console.group();
 						console.log(result.results.sunrise);
